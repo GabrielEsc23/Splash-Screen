@@ -31,7 +31,7 @@ Desarrollar una aplicación móvil funcional que permita aplicar los conocimient
 
 ### 🔹 Icono de la App
 
-![Icono de la app](https://github.com/GabrielEsc23/Splash-Screen/blob/raw/Capturas_APP/LOGO.png)
+![Icono de la app](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/LOGO.png)
 
 **Descripción:**
 Se realizó la personalización del icono de la aplicación, el cual es visible tanto en el dispositivo móvil como en el menú de aplicaciones.
