@@ -41,7 +41,7 @@ Este cambio permite identificar de manera visual la aplicación desarrollada, me
 
 ### 🔹 Splash Screen
 
-![Splash Screen](./splash.png)
+![Splash Screen](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/SPLASH-SCREEN.png)
 
 **Descripción:**
 Se implementó un splash screen personalizado que se muestra al iniciar la aplicación.
@@ -53,7 +53,9 @@ Esta pantalla de carga inicial brinda una mejor experiencia visual al usuario mi
 
 ### 🏠 Pantalla principal (Tab1 - Alerta)
 
-![Pantalla principal](./tab1.jpeg)
+![Pantalla principal](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/TAB1.png)
+
+![Pantalla principal](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/TAB-1-EJECUCION.png)
 
 **Descripción:**
 Esta pantalla corresponde a la pestaña Tab1.
@@ -64,7 +66,9 @@ Esta funcionalidad permite demostrar la interacción básica con el usuario medi
 
 ### 📷 Captura de imágenes (Tab2 - Cámara)
 
-![Tab2 Cámara](./tab2.jpeg)
+![Tab2 Cámara](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/TAB2png.png)
+
+![Tab2 Cámara](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/TAB2-EJECUCION.png)
 
 **Descripción:**
 La pestaña Tab2 contiene un botón con ícono de cámara, el cual permite acceder a la cámara del dispositivo.
@@ -75,7 +79,7 @@ Esta funcionalidad utiliza Capacitor para interactuar con el hardware del dispos
 
 ### 🖼️ Galería de imágenes (Tab3)
 
-![Galería](./tab3.jpeg)
+![Galería](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/TAB3.png)
 
 **Descripción:**
 En la pestaña Tab3 se visualizan las fotografías que han sido tomadas previamente.
@@ -85,7 +89,7 @@ Las imágenes se muestran en forma de galería, permitiendo al usuario ver todas
 
 ### 📱 Ejecución en Android
 
-![Android](./android.jpeg)
+![Android](https://github.com/GabrielEsc23/Splash-Screen/raw/main/Capturas_APP/GALERIA.png)
 
 **Descripción:**
 En esta imagen se muestra la aplicación ejecutándose en un dispositivo Android.
