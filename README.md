@@ -21,7 +21,7 @@ Desarrollar una aplicación móvil funcional que permita aplicar los conocimient
 
 ---
 
-## 👨‍💻 Integrantes
+## 👨‍💻 Estudiante
 
 * Gabriel Escobar
 
